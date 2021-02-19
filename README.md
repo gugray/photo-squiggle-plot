@@ -1,7 +1,7 @@
 # photo-squiggle-plot
 _Photos rendered in squiggly lines, for the Feb-2020 Plotter Postcard Exchange #PTPX_
 
-![Portrait  of Ursula K Le Guin on a spiral line with squiggles](output/leguin-spiral.svg)
+![Portrait  of Ursula K Le Guin on a spiral line with squiggles](output/leguin-spiral.svg)  
 _* Portrait  of Ursula K Le Guin on a spiral line with squiggles_
 
 This is the code I used to create the postcards sent out in Paul Butler's ([@paulgb](https://twitter.com/paulgb)) February 2021 Plotter Postcard Exchange [#ptpx](https://twitter.com/search?q=%23ptpx).

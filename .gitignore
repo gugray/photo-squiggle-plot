@@ -1,0 +1,7 @@
+packages
+bin
+obj
+*.csproj.user
+.vs
+
+xaddr*.txt

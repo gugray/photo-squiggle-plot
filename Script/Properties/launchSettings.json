@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Script": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Development\\photo-squiggle-plot"
+    }
+  }
+}
